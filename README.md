@@ -15,4 +15,4 @@ The procedure is as follows:
 
 Note that ideally, the github repository should match the material of the paper, and that the fork will always point to the original, author's repository that was forked. It is expected that users will use the CAGEO site to discover the location of the author's original repository, where they can learn about potential developments of the software beyond those described in the paper.
 
-An introduction to using github is found [here](https://guides.github.com/activities/hello-world/).
+An introduction to using github is found [here](https://guides.github.com/activities/hello-world/); there's no need for branches, merges, or pull requests in the procedure as used here.
