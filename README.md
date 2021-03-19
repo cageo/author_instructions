@@ -1,7 +1,7 @@
 ### Author instructions for uploading code when a paper is accepted in Computers &amp; Geosciences
 
 
-Dario Grana, Derek Karssenberg, Gregoire Mariethoz
+Dario Grana, Derek Karssenberg, Pauline Collon and Leandro de Figueiredo
 
 Modern code distribution and sharing is no longer through static uploading to a single website, as has beein done in the past (http://www.iamg.org/). In the spirit of being a modern computer science journal we will publish all code on [github](https://githib.com). GitHub is a free web-based hosting service for software development projects that use the Git revision control system. GitHub is the most popular of such sites and as long as the code remains public is completely free of charge. Any code submitted to Computers & Geosciences should be freely uploaded, we do not publish commercial or advertise any for-pay code. Readers can now easily find and download your code; authors can upload modifications to the code on their own GitHub page. In this short manual, we will go through the simple steps needed to have your code uploaded. You can decide for yourself to either limit yourself to this procedure or make full use of the github capabilities for you or your research group. 
 
